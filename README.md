@@ -39,9 +39,7 @@ python win-lockfetch.py
 
 
 
-
-
-# 2. 设置开机自动刷新
+## 2.设置开机自动刷新
 
 建议设置成每次开机自动刷新获取一次，否则怎么能叫自动化呢？
 
@@ -61,6 +59,6 @@ python D:\project\GitHub\win-lockfetch\win-lockfetch.py
 
 
 
-# 结束
+## 结束
 
 脚本虽小却也是挺有意义的一个小脚本，如果觉得该脚本对你有用，麻烦点个Star ^_^
